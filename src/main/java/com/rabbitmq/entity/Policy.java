@@ -38,7 +38,7 @@ public class Policy implements Serializable {
 	
 	@Column(name = "quote_number")
 	private String quotenumber;
-	
+
 	@Column(name = "policy_type")
 	private String policytype;
 	
